@@ -1,0 +1,9 @@
+{
+  "name": "hygen-envigenter",
+  "version": "1.0.0",
+  "description": "Template for envigenter",
+  "main": "index.js",
+  "repository": "git@github.com:mcflythekid/hygen-envigenter.git",
+  "author": "McFly the Kid <odopoc@gmail.com>",
+  "license": "MIT"
+}
