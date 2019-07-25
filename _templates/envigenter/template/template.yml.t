@@ -1,5 +1,5 @@
 ---
-to: env/_template.yml
+to: env/SAMPLE.yml
 ---
 foo:
   bar: 911
