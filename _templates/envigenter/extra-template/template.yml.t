@@ -1,5 +1,5 @@
 ---
-to: env/extra/_template.<%= profile %>.yml
+to: env/extra/<%= profile %>.SAMPLE.yml
 ---
 extra:
   prop1: 1
